@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "amogus",
+    "name": "Sembari + - Among Us",
+    "description": "Sembari + - Among Us",
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTab"
+    },
+    "music": {
+      "value": "CUSTOM:amogus"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

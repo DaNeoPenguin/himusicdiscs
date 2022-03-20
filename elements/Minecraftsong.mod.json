@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "creeper",
+    "name": "Sembari + - Minecraft",
+    "description": "Sembari + - Minecraft",
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTab"
+    },
+    "music": {
+      "value": "CUSTOM:mc_sembariplus"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

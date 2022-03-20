@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="musicdiscs"
+version="1.16.5-3"
+displayName="HiMusic Discs"
+credits="Credits Are on the curseforge page"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/penguins-music-discs"
+logoFile="logo.png"
+authors="Penguin2Neptune"
+description='''
+A mod that adds 
+'''
+
+[[dependencies.musicdiscs]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

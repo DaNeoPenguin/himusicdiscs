@@ -1,0 +1,83 @@
+{
+  "tripaloski": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "musicdiscs:videoplayback-_3_",
+        "stream": true
+      }
+    ]
+  },
+  "nanastu-no-taiza-op-1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "musicdiscs:nanatsu-no-taiza",
+        "stream": true
+      }
+    ]
+  },
+  "amogus": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "musicdiscs:videoplayback-_4_",
+        "stream": true
+      }
+    ]
+  },
+  "creeperawwman": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "musicdiscs:videoplayback-_5_",
+        "stream": true
+      }
+    ]
+  },
+  "mc_sembariplus": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "musicdiscs:videoplayback-_3__1",
+        "stream": true
+      }
+    ]
+  },
+  "antifuze": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "musicdiscs:anti_fuze",
+        "stream": true
+      }
+    ]
+  },
+  "therumbling": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "musicdiscs:the-rumbling",
+        "stream": true
+      }
+    ]
+  },
+  "onmapellefuze3": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "musicdiscs:fuzeiiifull",
+        "stream": true
+      }
+    ]
+  },
+  "redswan": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "musicdiscs:therumbling",
+        "stream": true
+      }
+    ]
+  }
+}

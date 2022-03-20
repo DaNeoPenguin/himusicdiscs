@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ergr",
+    "name": "CaptainSparklez - Creeper ?",
+    "description": "CaptainSparklez - Creeper ?",
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTab"
+    },
+    "music": {
+      "value": "CUSTOM:creeperawwman"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

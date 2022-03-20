@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ergr",
+    "name": "FuzeIII - Anti Anti Fuze",
+    "description": "FuzeIII - Anti Anti Fuze",
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTab"
+    },
+    "music": {
+      "value": "CUSTOM:antifuze"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

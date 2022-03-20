@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "onmapellefuse3",
+    "name": "FuzeIII - On m'apelle fuze 3",
+    "description": "FuzeIII - On m'apelle fuze 3",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:onmapellefuze3"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

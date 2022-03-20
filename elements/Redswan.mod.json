@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "redswan",
+    "name": "Yoshiki - Red Swan",
+    "description": "Yoshiki - Red Swan",
+    "creativeTab": {
+      "value": "CUSTOM:CreativeTab"
+    },
+    "music": {
+      "value": "CUSTOM:redswan"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}
