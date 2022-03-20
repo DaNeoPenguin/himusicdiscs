@@ -1,4 +1,4 @@
-# HiMusic Discs
+# ***HiMusic Discs***
 
 FR : Bonjour et voici un petit résumé du mod : 
 Ce mod est utilisé sur un serveur minecraft nommé HiCube (en dev et fermé)</br>
